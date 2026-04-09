@@ -211,7 +211,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Author
 
-Harsh Avardhanan
+Harshavardhanan R
+
 
 ## Acknowledgments
 
